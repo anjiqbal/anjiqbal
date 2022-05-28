@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anjum</h1>
+![alt text](![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"))
+
+
 <h3 align="center">A software engineer @100Devs</h3>
 
 
