@@ -1,13 +1,15 @@
 ![alt text](https://github.com/anjiqbal/anjiqbal/blob/main/header.png)
 
+<h1>Hi 👋, I'm Anjum, a software engineer based in Birmingham, England</h1>
 
-<h3 align="center">A software engineer @100Devs</h3>
+
+What began as a strong need to solve my own software based problems has developed into a passion for code. Come and see some of my projects [here](https://anjumiqbal.netlify.app/).
 
 
 
 - 🔭 I’m currently working on **a client project**
 
-- 🤝 I’d be delighted to collaborate **with others!**
+- 🤝 I’d be delighted to collaborate with others!
 
 - 👨‍💻 All of my projects are available at [https://anjumiqbal.netlify.app/](https://anjumiqbal.netlify.app/)
 
