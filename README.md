@@ -11,8 +11,6 @@ What began as a strong need to solve my own software based problems has develope
 
 - 🤝 I’d be delighted to collaborate with others!
 
-- 👨‍💻 All of my projects are available at [https://anjumiqbal.netlify.app/](https://anjumiqbal.netlify.app/)
-
 - 📫 How to reach me **anjum.r.iqbal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
