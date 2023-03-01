@@ -3,8 +3,7 @@
 <h1>Hi 👋, I'm Anjum, a software engineer based in Birmingham, England</h1>
 
 
-What began as a strong need to solve my own software based problems has developed into a passion for code. Come and see some of my projects [here](https://anjumiqbal.netlify.app/).
-
+What began as a strong need to solve my own software based problems has developed into a passion for code. 
 
 
 - 🔭 I’m currently working on **a client project**
