@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anjum!</h1>
-<h3 align="center">Junior full-stack developer</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Anjum!
+=====================================================================================================================================
 
+Junior Full Stack Developer
+---------------------------
 
 - 🌍 I'm based in Birmingham, United Kingdom
 
 - 🔭 I’m currently working on **StoryScape - a School of Code full-stack team project**
 
-- 👯 I’m looking to collaborate on **on any interesting projects I can learn from and contribute too**
+- 🤝 I’m looking to collaborate on **on any interesting projects I can learn from and contribute too**
 
-- 📫 How to reach me: **anjum.r.iqbal@gmail.com**
+- ✉️ How to reach me: **anjum.r.iqbal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
