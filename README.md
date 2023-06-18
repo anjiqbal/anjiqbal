@@ -26,6 +26,5 @@ Junior Full Stack Developer
 ### Badges
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjiqbal&show_icons=true&locale=en" alt="anjiqbal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjiqbal&" alt="anjiqbal" /></p>
